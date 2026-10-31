@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sheillaemberga316-cyber.github.io/My-Portfolio/sitemap.xml
